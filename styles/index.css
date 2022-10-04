@@ -6,8 +6,8 @@
 
 header {
   height: 10vh;
-  background-color: #001d32;
-  color: #cde5ff;
+  background-color: #cce6f8;
+  color: #070707;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -51,7 +51,7 @@ main > section {
 }
 
 .boardRow > div:hover {
-  background-color: #cde5ff;
+  background-color: #bab5ff;
 }
 
 img {
@@ -70,8 +70,8 @@ button {
   max-height: 50px;
   border: none;
   border-radius: 8px;
-  background-color:#006399;
-  color: #cde5ff;
+  background-color:#0372a5;
+  color: #ffffff;
   font-size: 1rem; 
 }
 
